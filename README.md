@@ -4,29 +4,36 @@
 
 Submitted by: **Your Name Here**
 
-**Name of your app** is an app that... [TODO] 
+**Intro** is an app that... is a very brief introduction of who I am with a fun color changing background. 
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 - [X] Users are see a screen with three labels and a button
-- [ X] Tapping the button changes the screen color to a random color
+- [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div style="position: relative; padding-bottom: 213.46534653465346%; height: 0;"><iframe src="https://www.loom.com/embed/851a4766672a4397a2ee36b48abf4deb?sid=de8878f1-6c3d-4895-a653-64be80c685e2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## App Brainstorming (Step 4)
+Favorite applications
+- Beli. I love how easy it is to re organize your ranking. I also like how much detail you can add to a posting
+- Kindle. I think it prioritizes books in good order, making new books easy to find. I also emphasizing different categories on the home page is very helpful.
+- Instagram. Colored story outlines to see what hasn't been viewed. Red dot next to the heard when there are new notifications.
+
+App Idea
+My app idea is inspired by beli, but is based on salons (nail and hair). This would be a photo-based platform designed to help users rank and discover hair salons, nail studios, and other beauty services based on personal experiences. Unlike broad review platforms like Yelp, the app focuses exclusively on salons, emphasizing key factors such as cleanliness, stylist skill, and variety of services offered, including haircuts, nail art, and specific styling trends. Users can upload photos of their results, share detailed reviews, and rate salons on specialized criteria like hygiene, ambiance, and expertise in certain styles. 
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+I had a really hard time finding some of the buttons that the steps described. That being said, using google and previous forums to find the info wasn't too bad!
 ## License
 
     Copyright [yyyy] [name of copyright owner]
