@@ -1,8 +1,8 @@
 # cp-prework
 
-# Prework - *Name of App Here*
+# Prework - *Intro*
 
-Submitted by: **Your Name Here**
+Submitted by: **Rachel Ma**
 
 **Intro** is an app that... is a very brief introduction of who I am with a fun color changing background. 
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 213.46534653465346%; height: 0;"><iframe src="https://www.loom.com/embed/851a4766672a4397a2ee36b48abf4deb?sid=de8878f1-6c3d-4895-a653-64be80c685e2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+https://www.loom.com/embed/851a4766672a4397a2ee36b48abf4deb?sid=de8878f1-6c3d-4895-a653-64be80c685e2
 
 ## App Brainstorming (Step 4)
 Favorite applications
